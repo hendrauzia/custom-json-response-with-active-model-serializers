@@ -1,0 +1,34 @@
+les_quatre:
+  title: Les quatre cents coups
+  description: Moving story of a young boy who, left without attention, delves into a life of petty crime.
+  user: sarah
+
+la_haine:
+  title: La heine
+  description: 24 hours in the lives of three young men in the French suburbs the day after a violent riot.
+  user: javier
+
+the_godfather:
+  title: The Godfather
+  description: The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.
+  user: beth
+
+the_departed:
+  title: The Departed
+  description: An undercover cop and a mole in the police attempt to identify each other while infiltrating an irish gang in South Boston.
+  user: phillip
+
+umberto:
+  title: Umberto D
+  description: An elderly man and his dog struggle to survive on his government pension in Rome.
+  user: soham
+
+white_heat:
+  title: White Heat
+  description: A psychopathic criminal wiwth a mother complex makes a daring break from prison and leads his old gang in a chemical plant payroll heist.
+  user: jill
+
+duck_soup:
+  title: Duck Soup
+  description: Rufus T. Firefly is named president/dictator of bakrupt Freedonia and declares war on neighboring Sylvania over the love of wealthy Mrs. Teasdale.
+  user: terry
